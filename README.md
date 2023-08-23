@@ -31,12 +31,23 @@ They will need to provide respective addresses based on their choice.
 Localization:
 The app seems to be prepared for localization, which means it could be available in multiple languages in the future.
 
-![Pizza App GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/pizza-app.gif)
-![01](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png)
-![02](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png)
-![03](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png)
-![04](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png)
-![05](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png)
-![06](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png)
+# PizzaApp Demo
+
+![PizzaApp GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/pizza-app.gif)
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png" width="300">
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png" width="300">
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png" width="300">
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png" width="300">
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png" width="300">
+
+<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png" width="300">
+
 
 
