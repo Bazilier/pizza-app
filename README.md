@@ -1,5 +1,6 @@
 # pizza-app
 Application Name: PizzaApp
+
 Description: iOS app prototype for a pizza delivery service
 
 Language: Swift
