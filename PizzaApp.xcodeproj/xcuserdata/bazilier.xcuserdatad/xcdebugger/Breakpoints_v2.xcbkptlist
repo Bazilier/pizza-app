@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C6546B78-040D-447F-BB7B-EEE2E4CD4E0C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FDFCA17-49BE-4D37-9775-974887C1F45D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "task-3-02/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF6797B9-865E-4982-953E-2A87CD93EA04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "task-3-02/BannerCollectionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "BannerCollectionCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6BCEE4B-A0C0-4513-8B77-774FE940ACD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/BannersService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchBanners()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCD73696-7E95-4B60-92CB-805EF4B06F87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/CartService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "CartService"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CCD73696-7E95-4B60-92CB-805EF4B06F87 - 12daaf20277f6902"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.CartService.add(of: PizzaApp.Product) -&gt; ()"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Services/CartService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "CCD73696-7E95-4B60-92CB-805EF4B06F87 - 4a571005de2247aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PizzaApp.Product) -&gt; Swift.Bool in PizzaApp.CartService.add(of: PizzaApp.Product) -&gt; ()"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Services/CartService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7850C0F-229F-4E1A-8AD3-046019B50EBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/CartService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "add(of:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C908D08-C19A-40A1-8035-5ED2E09192AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/CartArchiver.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "save(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8D4BD8D-DFCE-41D0-9F95-01D3F0E57D42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/CartService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "add(of:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5114778C-1AFC-4042-82E7-C1C252A57453"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Cart/Cells/CartPizzaCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87255A1D-6D78-4DB1-83A3-C07EB0859391"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Cart/Cells/CartPizzaCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "178"
+            endingLineNumber = "178"
+            landmarkName = "stepperChangedValueAction(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87255A1D-6D78-4DB1-83A3-C07EB0859391 - f0f516544a94395b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.CartPizzaCell.stepperChangedValueAction(sender: PizzaApp.CustomStepper) -&gt; ()"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Cart/Cells/CartPizzaCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "557">
+               </Location>
+               <Location
+                  uuid = "87255A1D-6D78-4DB1-83A3-C07EB0859391 - f0f516544a94395b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.CartPizzaCell.stepperChangedValueAction(sender: PizzaApp.CustomStepper) -&gt; ()"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Cart/Cells/CartPizzaCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "606">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15B1B4C0-F072-46A1-A828-1E189D9164F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/Cells/HereOrAwayCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "segmentedControlValueChanged(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5DAAB5E-9E3A-4141-A3FA-EC8BCC9CC08F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "addressTextField"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "672165D4-33B1-4B1D-B525-8B985D7F689A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "addressTextField"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA2E9F15-6914-4083-B04E-E348809C5803"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "addressLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 9f7113d6f90b8129"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UILabel in variable initialization expression of PizzaApp.AddressViewController.addressLabel : __C.UILabel"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 53ee7f090da426f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.addressLabel.getter : __C.UILabel"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 2068606426527119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.addressLabel.setter : __C.UILabel"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 939ea2908e2994fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.addressLabel.modify : __C.UILabel"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 19fbc740a8ba59de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.addressLabel.modify : __C.UILabel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - a5824768e2e18182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PizzaApp.AddressViewController"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "311">
+               </Location>
+               <Location
+                  uuid = "FA2E9F15-6914-4083-B04E-E348809C5803 - 5d72996c620380b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PizzaApp.AddressViewController&gt;"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DB47BB7-30FE-4876-B49B-22B0723F2882"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "addressLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0DB47BB7-30FE-4876-B49B-22B0723F2882 - a5824768e2e1809a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PizzaApp.AddressViewController"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "0DB47BB7-30FE-4876-B49B-22B0723F2882 - 5d72996c620381a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PizzaApp.AddressViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PizzaApp.AddressViewController&gt;"
+                  moduleName = "PizzaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bazilier/Documents/Swift%20Lessons/task-3-02/PizzaApp/Screens/Menu/DeliveryAddressView/DeliveryAdressVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2320292B-E80C-4079-B1AE-6D317DA8C756"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Menu/MenuScreenVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92EF7AEE-B4B8-4028-901C-97A18241C604"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Screens/Detail/ProductDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78787A11-0B5F-40ED-8591-09E5F5E7A890"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/ProductAPIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchProduct(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F99D8D0-0328-4343-886C-9CEAC47F5196"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PizzaApp/Services/ProductAPIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchProduct(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Bazilier_a_photorealistic_small_pizza_with_pesto_pasta_topping_947784f3-e733-49f0-a81c-49589f1fb384.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "name": "Купи гуся",
+            "description": "Гусь, гусь и что-то ням-ням",
+            "price": 300,
+            "image": "ham-mushrooms"
+            
+        },
+        {
+            "name": "Купи слона",
+            "description": "Слон, колбаски, пиво, оругцы, квас",
+            "price": 600,
+            "image": "bavarian-sausage"
+            
+        },
+        {
+            "name": "Купи лосось",
+            "description": "Нежный лосось, сливочный соус, побольше мазика",
+            "price": 700,
+            "image": "salmon"
+            
+        }
+    ]
+}
+

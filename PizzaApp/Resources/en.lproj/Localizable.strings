@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PizzaApp
+
+  Created by Кирилл Васильев on 2.06.2023.
+  
+*/
+
+"Delivery" = "Delivery";
+"Take Away" = "Take Away";
+"Delivery Address" = "Delivery Address";
+"Provide delivery address 🚚" = "Provide delivery address 🚚";
+"Provide restaurant address 🍕" = "Provide restaurant address 🍕";
+"Special offers 🥲" = "Special offers 🥲";
+"Add to cart" = "Add to cart";
+"Ooohs, your cart is empty 🤷‍♂️" = "Ooohs, your cart is empty 🤷‍♂️";
+"Go to menu" = "Go to menu";
+"Menu" = "Menu";
+"Cart" = "Cart";
+"Order" = "Make order";
+"items for" = "items for";

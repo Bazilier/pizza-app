@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Bazilier_photorealistic_pizza_from_top_view_with_these_ingredie_faab6647-e4b2-4458-aeed-834139b842cd.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
