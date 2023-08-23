@@ -1,5 +1,5 @@
 # pizza-app
-Application Name: Doggo Pizza
+Application Name: PizzaApp
 Description: iOS app prototype for a pizza delivery service
 
 Language: Swift
