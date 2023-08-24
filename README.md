@@ -30,17 +30,17 @@ They will need to provide respective addresses based on their choice.
 Localization:
 The app is prepared for localization, it can be available in multiple languages in the future.
 
-# Screenshots
+## Features & Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png" width="300"><br><b>Main Screen:</b> Users can choose between delivery or takeaway options. The interface also presents special offers and a direct path to the menu.</td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/02.png" width="300"><br><b>Address API:</b> An integrated address-picking interface powered by an external API. Provides seamless experience for specifying delivery details.</td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/03.png" width="300"><br><b>Product Details:</b> A dedicated view for products, showcasing intricate details, images, and descriptions for the selected pizza item.</td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png" width="300"><br><b>Cart Interface:</b> A dynamic cart interface allowing users to review and customize their order, ensuring all selections are accurate before checkout.</td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png" width="300"><br><b>Empty Cart View:</b> An intuitive interface urging users to populate their cart. Features a 'Go to Menu' button for ease of navigation back to product listings.</td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png" width="300"><br><b>Dark Theme:</b> The application supports a dark theme, ensuring visual comfort and adapting to user preferences.</td>
-  </tr>
-</table>
+| Main Screen | Address Picking | Product Details |
+|:---:|:---:|:---:|
+| ![Main Screen](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png) Main screen offers a choice between delivery and take-away options. Special offers and the menu are easily accessible. | ![Address Picking](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/02.png) The app integrates an API for address picking to ensure the smoothest delivery experience. | ![Product Details](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/03.png) Detailed view of each pizza, allowing users to get a glimpse before ordering. |
+
+| Cart Screen | Empty Cart View | Dark Mode |
+|:---:|:---:|:---:|
+| ![Cart Screen](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png) Customize your order in the cart. Add or remove items, change quantities, and finalize your order. | ![Empty Cart View](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png) An intuitive view prompts users to return to the menu when the cart is empty. | ![Dark Mode](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png) A dark theme is available for those who prefer a different look or for better nighttime browsing. |
+
+| | App Demo GIF | |
+|:---:|:---:|:---:|
+| | ![App Demo GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/pizza-app.gif) Watch the app in action! | |
+
