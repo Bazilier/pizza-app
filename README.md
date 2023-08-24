@@ -29,7 +29,7 @@ They will need to provide respective addresses based on their choice.
 Localization:
 The app is to be prepared for localization, it can be available in multiple languages in the future.
 
-# PizzaApp Demo
+# PizzaApp Screenshots
 
 <table>
   <tr>
