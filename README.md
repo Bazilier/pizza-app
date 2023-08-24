@@ -33,37 +33,13 @@ The app is to be prepared for localization, it can be available in multiple lang
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png" width="300"><br>
-      <b>Main Screen</b><br>
-      Choose between delivery or takeaway. Features a UICollectionView inside a UITableViewCell for banners and a UITableView for the pizza menu.
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/02.png" width="300"><br>
-      <b>Address Screen</b><br>
-      Fetches addresses using the Dadata API.
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/03.png" width="300"><br>
-      <b>Product Details Screen</b><br>
-      Provides detailed information and an order button.
-    </td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png" width="300"><br><b>Menu Overview:</b> A comprehensive display of available pizzas. Each item is represented with a clear image and name.</td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png" width="300"><br><b>Product Details:</b> Detailed view of the selected product, showcasing its image and descriptive information.</td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png" width="300"><br><b>Special Offers:</b> Highlighting promotional banners with product visuals and associated pricing details.</td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png" width="300"><br>
-      <b>Cart Screen</b><br>
-      Displays ordered products in a UITableView, includes a custom stepper for order customization, and a haptic feedback feature to shake and clear the cart.
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png" width="300"><br>
-      <b>Empty Cart</b><br>
-      Features a "Go to Menu" button when the cart is empty.
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png" width="300"><br>
-      <b>Dark Theme</b><br>
-      Supports a dark theme in line with the system theme.
-    </td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png" width="300"><br><b>Cart Interface:</b> A summary of selected items with respective pricing. Users can review and finalize their selection.</td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png" width="300"><br><b>Delivery Preference:</b> Options for delivery or take away. Necessary information fields are provided for user input.</td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png" width="300"><br><b>Checkout:</b> Concluding the order process, displaying the total items and associated costs, prompting for order confirmation.</td>
   </tr>
 </table>
