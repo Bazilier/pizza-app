@@ -1,6 +1,4 @@
-# pizza-app
-Application Name: PizzaApp
-
+# PizzaApp
 Description: iOS app prototype for a pizza delivery service
 
 Language: Swift
@@ -33,43 +31,39 @@ The app is to be prepared for localization, it can be available in multiple lang
 
 # PizzaApp Demo
 
-## Screenshots
-
 <table>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png" width="300"><br>
-      <b>Screenshot 01</b><br>
-      Sample description for the first screenshot.
+      <b>Main Screen</b><br>
+      Choose between delivery or takeaway. Features a UICollectionView inside a UITableViewCell for banners and a UITableView for the pizza menu.
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/02.png" width="300"><br>
-      <b>Screenshot 02</b><br>
-      Sample description for the second screenshot.
+      <b>Address Screen</b><br>
+      Fetches addresses using the Dadata API.
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/03.png" width="300"><br>
-      <b>Screenshot 03</b><br>
-      Sample description for the third screenshot.
+      <b>Product Details Screen</b><br>
+      Provides detailed information and an order button.
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png" width="300"><br>
-      <b>Screenshot 04</b><br>
-      Sample description for the fourth screenshot.
+      <b>Cart Screen</b><br>
+      Displays ordered products in a UITableView, includes a custom stepper for order customization, and a haptic feedback feature to shake and clear the cart.
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png" width="300"><br>
-      <b>Screenshot 05</b><br>
-      Sample description for the fifth screenshot.
+      <b>Empty Cart</b><br>
+      Features a "Go to Menu" button when the cart is empty.
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png" width="300"><br>
-      <b>Screenshot 06</b><br>
-      Sample description for the sixth screenshot.
+      <b>Dark Theme</b><br>
+      Supports a dark theme in line with the system theme.
     </td>
   </tr>
 </table>
-
-
