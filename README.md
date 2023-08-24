@@ -29,26 +29,47 @@ Users can choose between getting their order delivered or picking it up themselv
 They will need to provide respective addresses based on their choice.
 
 Localization:
-The app seems to be prepared for localization, which means it could be available in multiple languages in the future.
+The app is to be prepared for localization, it can be available in multiple languages in the future.
 
 # PizzaApp Demo
-
-![Pizza App GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/pizza-app.gif)
 
 ## Screenshots
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png" width="300"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png" width="300"><br>
+      <b>Screenshot 01</b><br>
+      Sample description for the first screenshot.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/02.png" width="300"><br>
+      <b>Screenshot 02</b><br>
+      Sample description for the second screenshot.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/03.png" width="300"><br>
+      <b>Screenshot 03</b><br>
+      Sample description for the third screenshot.
+    </td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png" width="300"></td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png" width="300"></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png" width="300"><br>
+      <b>Screenshot 04</b><br>
+      Sample description for the fourth screenshot.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png" width="300"><br>
+      <b>Screenshot 05</b><br>
+      Sample description for the fifth screenshot.
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png" width="300"><br>
+      <b>Screenshot 06</b><br>
+      Sample description for the sixth screenshot.
+    </td>
   </tr>
 </table>
-
 
 
