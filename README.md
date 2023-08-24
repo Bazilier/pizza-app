@@ -2,7 +2,10 @@
 Description: iOS app prototype for a pizza delivery service
 
 Language: Swift
+
 Frameworks and Libraries: UIKit programmatically, SnapKit, Foundation
+
+Architecture: MVC
 
 Dependency Managers: Swift Package Manager
 
