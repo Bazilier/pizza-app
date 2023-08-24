@@ -30,6 +30,8 @@ They will need to provide respective addresses based on their choice.
 Localization:
 The app is prepared for localization, it can be available in multiple languages in the future.
 
+# Screenshots
+
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/01.png" width="300"><br><b>Main Screen:</b> Users can choose between delivery or takeaway options. The interface also presents special offers and a direct path to the menu.</td>
@@ -40,10 +42,5 @@ The app is prepared for localization, it can be available in multiple languages 
     <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/04.png" width="300"><br><b>Cart Interface:</b> A dynamic cart interface allowing users to review and customize their order, ensuring all selections are accurate before checkout.</td>
     <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/05.png" width="300"><br><b>Empty Cart View:</b> An intuitive interface urging users to populate their cart. Features a 'Go to Menu' button for ease of navigation back to product listings.</td>
     <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/06.png" width="300"><br><b>Dark Theme:</b> The application supports a dark theme, ensuring visual comfort and adapting to user preferences.</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/demo-screenshots/pizza-app.gif" width="300"><br><b>App Demo:</b> Watch the app in action with this animated demonstration!</td>
-    <td></td>
   </tr>
 </table>
