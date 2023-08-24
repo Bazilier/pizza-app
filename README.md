@@ -33,21 +33,22 @@ The app seems to be prepared for localization, which means it could be available
 
 # PizzaApp Demo
 
-![PizzaApp GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/pizza-app.gif)
+![Pizza App GIF](https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/pizza-app.gif)
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png" width="300">
-
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png" width="300">
-
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png" width="300">
-
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png" width="300">
-
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png" width="300">
-
-<img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png" width="300">
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/01.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/02.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/03.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/04.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/05.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/Bazilier/pizza-app/pizza-app-demo-images/06.png" width="300"></td>
+  </tr>
+</table>
 
 
 
